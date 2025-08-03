@@ -6,7 +6,7 @@ const projects = [
     title: "Neo Connect - AI Tools Hub",
     description:
       "A multi-tool AI web app featuring summarizer, captioner, resume polisher, and more. Built with React, TailwindCSS, and Gemini APIs.",
-    image: "/public/projects/project1.png", 
+   image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Vite", "Gemini API"],
     demoURL: "https://connectneo.vercel.app",
     gitHubURL: "https://github.com/theDevNexus/NeoConnect",
