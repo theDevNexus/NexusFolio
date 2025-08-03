@@ -3,12 +3,13 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
-    demoURL: "#",
-    gitHubURL: "#",
+    title: "Neo Connect - AI Tools Hub",
+    description:
+      "A multi-tool AI web app featuring summarizer, captioner, resume polisher, and more. Built with React, TailwindCSS, and Gemini APIs.",
+    image: "/projects/project", 
+    tags: ["React", "TailwindCSS", "Vite", "Gemini API"],
+    demoURL: "https://connectneo.vercel.app/",
+    gitHubURL: "https://github.com/theDevNexus/NeoConnect",
   },
   {
     id: 2,
